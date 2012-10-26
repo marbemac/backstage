@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
   deps = [
           [%q<sinatra>, "= 1.2.6"],
           [%q<haml>, "~> 3.0"],
-          [%q<sass>, "~> 3.1.2"],
+          [%q<sass>, "~> 3.1.5"],
           [%q<jmx>, "= 0.9"],
           [%q<json>, "= 1.5.1"],
           [%q<torquebox>, "~> 2.0"],
